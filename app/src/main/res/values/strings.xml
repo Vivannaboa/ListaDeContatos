@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salavar</string>
+</resources>
