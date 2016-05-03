@@ -16,7 +16,6 @@
         android:id="@+id/listViewContatos"
         android:layout_alignParentTop="false"
         android:layout_centerHorizontal="true"
-
         />
 
 
@@ -29,7 +28,6 @@
     android:src="@android:drawable/ic_input_add"
     android:nestedScrollingEnabled="false"
     android:layout_alignParentBottom="true"
-    android:layout_alignEnd="@+id/listViewContatos"
-/>
+    android:layout_alignParentEnd="true" />
 
 </RelativeLayout>
